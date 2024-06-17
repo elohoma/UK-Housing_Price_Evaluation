@@ -6,4 +6,3 @@ The 3 main problem areas are focused on the following:
 Economic Stability and Affordability
 Resolve Regional Disparities
 Impact of Cash Sales
-![image](https://github.com/elohoma/UK-Housing_Price_Evaluation/assets/165058541/4059c54d-0a0c-43fe-8229-97a1b4a7700e)
